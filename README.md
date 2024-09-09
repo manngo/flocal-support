@@ -1,9 +1,3 @@
-<style>
-  img {
-    border: thick solid red;
-  }
-</style>
-
 # Add Floating Event
 
 <img src="icon.png" width="25%">
@@ -22,11 +16,11 @@ The __Add Floating Event__ app is thre to do one job only: create a new floating
 
 When you first use __Add Floating Event__, you may be asked for permissions to use the calendar. The App needs to be able to read your available calendars, and, when the time comes, add a calendar event, which is the whole point.
 
-…
+<img src="full-access.png" width="25%">
 
 You’ll then get the main screen. Well, the only screen:
 
-…
+<img src="add-floating-event.png" width="25%">
 
 -  Select a calendar
 -  Select a Start date & time
