@@ -35,7 +35,7 @@ Any other changes can be made through the Calendar App, just like any other cale
 
 ##  Bugs & Feature Requests
 
-To create a bug report or feature request, click on the https://github.com/manngo/add-floating-event/issues link above.
+To create a bug report or feature request, click on the https://github.com/manngo/flocal-support/issues link above.
 
 TBH, I don’t think there’s much to be added to this app. It’s there to do one thing only, and that’s to create a floating event on your iPhone.
 
