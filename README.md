@@ -40,15 +40,11 @@ This privacy policy applies to the FloCal app (hereby referred to as "Applicatio
 
 ###	What information does the Application obtain and how is it used?
 
-The Application does not obtain any information when you download and use it. Registration is not required to use the Application.
-
-###	Does the Application collect precise real time location information of the device?
-
-This Application does not collect precise information about the location of your mobile device.
+None. Nothing. We have no way of knowing what you do with the Application, and we really don’t care. We don’t know where you are, who you are, or what your plans are. There’s no registration, and we don’t collect any information about you.
 
 ###	Do third parties see and/or have access to information obtained by the Application?
 
-Since the Application does not collect any information, no data is shared with third parties.
+What we don’t know about you certainly can’t be share with anybody else. We don’t collect information, and so we don’t pass anything on to third parties.
 
 ###	What are my opt-out rights?
 
@@ -60,11 +56,11 @@ The application requires access to your calendar, and is subject to the same age
 
 ###	Security
 
-Since the Application does not collect any information, there is no risk of your data being accessed by unauthorised individuals.
+Since the Application does not collect any information, there’s no risk of your data being accessed by unauthorised individuals.
 
 ###	Changes
 
-This Privacy Policy may be updated from time to time for any reason. The Service Provider will notify you of any changes to their Privacy Policy by updating this page with the new Privacy Policy. You are advised to consult this Privacy Policy regularly for any changes, as continued use is deemed approval of all changes.
+This Privacy Policy may be updated from time to time if necessary. We’ll notify you of any changes to their Privacy Policy by updating this page with the new Privacy Policy.
 
 This privacy policy is effective as of 2025-09-19.
 
